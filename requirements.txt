@@ -1,5 +1,7 @@
-tensorflow
+tensorflow-macos
+tensorflow-metal
 opencv-python
 matplotlib
+kivy
 kagglehub
 numpy
