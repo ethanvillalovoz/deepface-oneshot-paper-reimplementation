@@ -6,7 +6,7 @@
 
 ## Overview
 
-This project is a faithful, modern reimplementation of the influential 2015 paper on Siamese Neural Networks for one-shot learning. Instead of using Omniglot characters, we apply the model to facial images — demonstrating how one-shot learning can be used to identify people with just **one example per identity**.
+This project is a faithful, modern reimplementation of the influential 2015 paper on Siamese Neural Networks for one-shot learning. Instead of using Omniglot characters, I applied the model to facial images — demonstrating how one-shot learning can be used to identify people with just **one example per identity**.
 
 ---
 
