@@ -174,3 +174,4 @@ cython_debug/
 .pypirc
 training_checkpoints/
 training_checkpoints/
+model_weights.h5
